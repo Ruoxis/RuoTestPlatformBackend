@@ -1,0 +1,2 @@
+# RuoTestPlatformBackend
+一款集成UI自动化测试管理与API自动化测试管理的测试平台
